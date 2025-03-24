@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ShopmeappApplication<shopmeapp>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "bt.edu.gcit.shopmeapp.ShopmeappApplication",
+            "projectName": "shopmeapp",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
